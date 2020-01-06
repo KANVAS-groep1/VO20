@@ -73,7 +73,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 188,
+    "uniqCompNum": 189,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -781,39 +781,6 @@
           "_global": false,
           "_once": false,
           "_params": {}
-        },
-        {
-          "_params": {
-            "token": "",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-21"
         },
         {
           "alias": false,
@@ -5923,6 +5890,39 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "token": "27845366073.727bfe1.8e09c762437d437eb9dd4a03222b6125",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-58"
         },
         {
           "alias": false,
